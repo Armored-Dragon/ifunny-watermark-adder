@@ -1,2 +1,3 @@
-# ifunny-watermark-adder
-Adds a ifunny watermark to images automatically
+# Dollar Store iFunny Watermark Adder
+Adds a ifunny watermark to images automatically.
+This was made very quickly in a time crunch.
